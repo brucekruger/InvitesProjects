@@ -1,0 +1,15 @@
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0\PartyInvites.exe
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0\PartyInvites.deps.json
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0\PartyInvites.runtimeconfig.json
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0\PartyInvites.runtimeconfig.dev.json
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0\PartyInvites.dll
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0\PartyInvites.pdb
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.csprojAssemblyReference.cache
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.csproj.CoreCompileInputs.cache
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.RazorAssemblyInfo.cache
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.RazorAssemblyInfo.cs
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.AssemblyInfoInputs.cache
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.AssemblyInfo.cs
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.RazorTargetAssemblyInfo.cache
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.dll
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.pdb
