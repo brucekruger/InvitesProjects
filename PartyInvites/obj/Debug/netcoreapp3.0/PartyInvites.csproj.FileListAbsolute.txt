@@ -52,3 +52,15 @@ D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0
 D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0\runtimes\win8-arm\native\e_sqlite3.dll
 D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.csproj.CopyComplete
 D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0\PartyInvites.Views.dll
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\bin\Debug\netcoreapp3.0\PartyInvites.Views.pdb
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.TagHelpers.input.cache
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.TagHelpers.output.cache
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.RazorCoreGenerate.cache
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\Razor\Views\Home\ListResponses.cshtml.g.cs
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\Razor\Views\Home\MyView.cshtml.g.cs
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\Razor\Views\Home\RsvpForm.cshtml.g.cs
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\Razor\Views\Home\Thanks.cshtml.g.cs
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.RazorTargetAssemblyInfo.cs
+D:\Work\Trainings\.NET Core\InvitesProjects\PartyInvites\obj\Debug\netcoreapp3.0\PartyInvites.Views.pdb
